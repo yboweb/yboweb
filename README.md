@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://yboweb.github.io/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://yboweb.github.io/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://yboweb.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://yboweb.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
@@ -27,7 +27,7 @@
 <br />
 <br />
 
-[website]: https://github.com/yboweb
+[website]: https://yboweb.netlify.app
 [VSCode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
 [CSS3]: https://en.wikipedia.org/wiki/CSS
