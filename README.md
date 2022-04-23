@@ -2,7 +2,7 @@
 
 ## I'm a Student, and Developer
 
-- 🔭 Check out my Website: [Raindrops][website]!
+- 🔭 Check out my Portfolio: [yboport][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about Web development and be creative.
 - ⚡ Fun fact: I'm lazy, but I learn things.
@@ -27,7 +27,7 @@
 <br />
 <br />
 
-[website]: https://yboweb.netlify.app
+[website]: https://yboport.netlify.app
 [VSCode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
 [CSS3]: https://en.wikipedia.org/wiki/CSS
