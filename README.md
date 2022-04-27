@@ -4,7 +4,7 @@
 
 - 🔭 Check out my Portfolio: [yboport][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Web development and be creative.
+- 🥅 2022 Goals: Learn more about Front end and be creative.
 - ⚡ Fun fact: I'm lazy, but I learn things.
 
 ### Connect with me:
