@@ -1,6 +1,6 @@
 # Hi there, I'm Ybo 👋 
 
-## I'm a Student, and Developer
+## I'm a Student
 
 - 🔭 Check out my Portfolio: [yboport][website]!
 - 🌱 I’m currently learning everything 🤣
